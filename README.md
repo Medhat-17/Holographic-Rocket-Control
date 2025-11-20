@@ -1,1 +1,1 @@
-This project demonstrates the synergy between computer vision, real-time graphics, and interactive UI design, producing a portable, high-tech AR-like experience without any external hand-tracking libraries. It’s a nerd-level fusion of OpenCV, image processing, and intuitive HCI, perfect for interactive demos, futuristic simulations, and hobbyist AR experiments.
+This project demonstrates the synergy between computer vision, real-time graphics, and interactive UI design, producing a portable, high-tech AR-like experience without any external hand-tracking libraries. 
