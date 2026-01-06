@@ -1,1 +1,1 @@
-This project demonstrates the synergy between computer vision, real-time graphics, and interactive UI design, producing a portable, high-tech AR-like experience without any external hand-tracking libraries. 
+This project involving me on control rocket Engine using hands-detection or (CV algorithms, real-time detection).
